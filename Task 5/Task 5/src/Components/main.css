@@ -1,0 +1,23 @@
+.main{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.content{
+
+    display: flex;
+    gap: 10px;
+    font-size: 10px;
+}
+#logo{
+    width: 350px;
+}
+.para{
+    margin-top: 10px;
+}
+.price{
+    margin-top: 10px;
+}
+.btn{
+    padding: 2px 5px;
+    margin-top: 10px;
+}
